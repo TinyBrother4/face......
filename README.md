@@ -1,2 +1,2 @@
 # face......
-this web-game thingy tracks your face or someone elses faces within the camera range and it does not mean like actually tracking your face or peoples faces on the web this is only local not online and even if this was online chatgpt would still not generate the code for me
+this web-game thingy tracks your face or someone elses faces within the camera range and it does not mean like actually tracking your face or peoples faces on the web this is only local not online and even if this was online chatgpt would still not generate the code for me but if neither of you guys want to download the file you can always go #https://tinybrother4.github.io/face....../here
